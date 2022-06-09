@@ -1,5 +1,6 @@
 # image-gallery
 이미지 갤러리 구현 데모
+https://hanabeeeee.github.io/image-gallery/
 
 ##기능 소개
 -하단의 썸내일 이미지를 클릭하면 메인 이미지가 변경되는 간단한 갤러리
